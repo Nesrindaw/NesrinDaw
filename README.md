@@ -20,7 +20,7 @@ To apply my skills in network traffic analysis and cybersecurity analytics, usin
 ![Suricata](https://img.shields.io/badge/-Suricata-FFCC00?style=for-the-badge&logo=suricata&logoColor=black)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-4CAF50?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-0094D8?style=for-the-badge&logo=splunk&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ## Projects:
 - **Network Traffic Analysis Tool**

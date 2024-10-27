@@ -7,3 +7,10 @@ I am a Cybersecurity Professional specializing in network traffic analysis, intr
 ## Objective:
 
 To apply my skills in network traffic analysis and cybersecurity analytics, using advanced tools and threat detection systems to monitor, assess, and respond to security incidents effectively. I aim to support data driven decision making and proactive threat management , strengthen security operations through detailed network analysis and the deployment of robust SIEM solutions.
+
+## Skills:
+- **Network Traffic Analysis:** Expert in monitoring and analyzing network activity, with advanced use of Wireshark for deep packet inspection.
+- **Intrusion Detection and Prevention Systems (IDPS):** Skilled in deploying and managing Snort and Suricata for real-time threat detection and traffic monitoring.
+- **Security Information and Event Management (SIEM):** Hands-on experience with Wazuh and Splunk for log management, threat analysis, and incident response.
+- **Linux Server Security:** Proficient in securing and hardening Linux servers to ensure network integrity and protect against vulnerabilities.
+- **Compliance and Risk Management:** Knowledgeable in implementing ISO 27001 security frameworks to meet information security and compliance standards.

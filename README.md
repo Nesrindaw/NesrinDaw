@@ -16,7 +16,7 @@ I am a Cybersecurity Professional specializing in network traffic analysis, intr
 ![Suricata](https://img.shields.io/badge/-Suricata-F6B400?style=for-the-badge&logo=suricata&logoColor=black)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-2F80ED?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-F15B2A?style=for-the-badge&logo=splunk&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black&labelColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black&labelColor=FFFFFF)
 
 ## Projects:
 - **Network Traffic Analysis**

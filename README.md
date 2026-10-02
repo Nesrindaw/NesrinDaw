@@ -13,15 +13,14 @@ I am a Cybersecurity Professional specializing in network traffic analysis, intr
 - **Compliance and Risk Management:** Knowledgeable in implementing ISO 27001 security frameworks to meet information security and compliance standards.
  ## Tools:
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1565C0?style=for-the-badge&logo=wireshark&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort-E53935?style=for-the-badge&logo=snort&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-FFCC00?style=for-the-badge&logo=suricata&logoColor=black)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-4CAF50?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-0094D8?style=for-the-badge&logo=splunk&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ## Projects:
-- **Network Traffic Analysis Tool**
-- **Intrusion Detection System (IDS) Deployment**
+- **Network Traffic Analysis**
+- **Intrusion Detection System (IDS)**
 - **SIEM Implementation**
-- **Linux Server Hardening Guide**
+- **Linux Server Hardening**
 - **ISO 27001 Compliance Project**

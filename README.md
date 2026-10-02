@@ -12,11 +12,11 @@ I am a Cybersecurity Professional specializing in network traffic analysis, intr
 - **Linux Server Security:** Proficient in securing and hardening Linux servers to ensure network integrity and protect against vulnerabilities.
 - **Compliance and Risk Management:** Knowledgeable in implementing ISO 27001 security frameworks to meet information security and compliance standards.
  ## Tools:
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-F6B400?style=flat-square&logo=suricata&logoColor=black)
-![Wazuh](https://img.shields.io/badge/Wazuh-2F80ED?style=flat-square&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-F15B2A?style=flat-square&logo=splunk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-F6B400?style=flat&logo=suricata&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-2F80ED?style=flat&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-F15B2A?style=flat&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 
 
 ## Projects:
